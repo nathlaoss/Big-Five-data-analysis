@@ -19,7 +19,7 @@ for each individual participating in the survey.
 - Conscientiousness
 - Neuroticism
 
-[More information on these traits here](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Descriptions_of_the_particular_personality_traits)
+[More information on these traits can be found here.](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Descriptions_of_the_particular_personality_traits)
 
 ### Sample Data
 
