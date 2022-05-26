@@ -1,6 +1,7 @@
 # Big-Five-data-analysis
 ## General info
 This project consists of exploratory data analysis of Big Five personality trait scores of 307 133 people from 233 different countries.
+<br>The analysis can be found in Big-Five-Analysis.ipynb file.
 <br>The data has been collected from IPIP-NEO-300 questionnaire and calculated by GitHub user [automoto](https://github.com/automoto).
 <br>It contains:
 - Case id
@@ -19,6 +20,7 @@ for each individual participating in the survey.
 - Neuroticism
 
 [More information on these traits here](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Descriptions_of_the_particular_personality_traits)
+
 ***
 ## Project main conclusions
 - Age slightly impacts one's character
